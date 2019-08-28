@@ -1,3 +1,3 @@
 {
-  "only-arches": ["x86_64","i386"]
+  "end-of-life": "These plugins are now included with the main application."
 }
